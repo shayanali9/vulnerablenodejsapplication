@@ -5,7 +5,7 @@ let path = require('path');
 let cookieParser = require('cookie-parser');
 let logger = require('morgan');
 
-// Database
+// Databases
 let mongo = require('mongodb');
 let monk = require('monk');
 let db = monk('localhost:27017/nodetest2');
