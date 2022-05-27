@@ -299,6 +299,3 @@ The project would take the later half of the course. To check the mid-term succe
 2. More about [OWASP top 10](https://www.cloudflare.com/learning/security/threats/owasp-top-10/)
 3. [Injection attack with mongoDB and nodeJS](https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html)
 
-## An interesting Clickjacking vulnerability on Vanderbilt system YES
-
-This is not part of my final project but I want to also share my process of discovery here. Please visit *[clickjacking](./clickjacking)* if interested.
