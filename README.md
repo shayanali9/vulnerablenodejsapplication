@@ -1,8 +1,4 @@
-# Vulnerable RESTful Web App with Node.js, Express, and MongoDB
-
-final project by *Xue Zou*, <br>
-Course Cyber-security from Vanderbilt University, <br>
-fall 2019, taught by *Dr.Christopher Jules White* 
+# Vulnerable NodeJS Project
 
 ## Goal
 Design a web app with Node.js, Express, and MongoDB and RESTful APIs and demonstrate the **OWASP Top Ten** on it.
